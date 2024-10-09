@@ -19,3 +19,5 @@ Description: The BiSeq package provides useful classes and functions to
 License: LGPL-3
 biocViews: Genetics, Sequencing, MethylSeq, DNAMethylation
 PackageStatus: Deprecated
+URL: https://github.com/KatjaHebestreit/BiSeq
+BugReports: https://github.com/KatjaHebestreit/BiSeq/issues
